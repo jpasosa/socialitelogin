@@ -40,4 +40,10 @@ return [
         ],
     ],
 
+    'facebook' => [
+        'client_id' => '491387958037317',
+        'client_secret' => '311037512247b9d3ecb0192656975635',
+        'redirect' => 'http://socialitelogin/'
+    ]
+
 ];
